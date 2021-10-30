@@ -7,3 +7,6 @@ Inkscape (https://inkscape.org/pt-br/) - Programa para Gráficos Vetoriais
 Estudonauta (https://www.estudonauta.com/) - Plataforma de Estudos em tecnologias Web e Dev
 Recode (https://recode.org.br/cursos/) - Plataforma de Cursos Gratuitos
 Hostinger (https://www.hostinger.com.br/) - Hospedagem de Sites
+QRCode Generator (https://br.qr-code-generator.com/) - Gerador de QR Code para links
+
+
